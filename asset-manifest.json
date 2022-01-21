@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/AWSD-assignment-2-mui/static/css/main.6a4b3a9e.css",
-    "main.js": "/AWSD-assignment-2-mui/static/js/main.d595497b.js",
-    "static/js/787.d9ff7881.chunk.js": "/AWSD-assignment-2-mui/static/js/787.d9ff7881.chunk.js",
-    "index.html": "/AWSD-assignment-2-mui/index.html",
-    "main.6a4b3a9e.css.map": "/AWSD-assignment-2-mui/static/css/main.6a4b3a9e.css.map",
-    "main.d595497b.js.map": "/AWSD-assignment-2-mui/static/js/main.d595497b.js.map",
-    "787.d9ff7881.chunk.js.map": "/AWSD-assignment-2-mui/static/js/787.d9ff7881.chunk.js.map"
+    "main.css": "/awsd-assignment-2-mui/static/css/main.6a4b3a9e.css",
+    "main.js": "/awsd-assignment-2-mui/static/js/main.60eac0f2.js",
+    "static/js/787.199468a6.chunk.js": "/awsd-assignment-2-mui/static/js/787.199468a6.chunk.js",
+    "index.html": "/awsd-assignment-2-mui/index.html",
+    "main.6a4b3a9e.css.map": "/awsd-assignment-2-mui/static/css/main.6a4b3a9e.css.map",
+    "main.60eac0f2.js.map": "/awsd-assignment-2-mui/static/js/main.60eac0f2.js.map",
+    "787.199468a6.chunk.js.map": "/awsd-assignment-2-mui/static/js/787.199468a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6a4b3a9e.css",
-    "static/js/main.d595497b.js"
+    "static/js/main.60eac0f2.js"
   ]
 }
