@@ -24,9 +24,8 @@ font-size: 3em;
 .Country {
   opacity: .75;
   background-color: #ffffff;
-  width: auto;
   margin: 1em;
   padding: 1em;
-  align-items: center;
+  text-align: center;
   display: flex;
 }

@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import Country from './components/Country';
+import CountryNoMui from './components/CountryNoMui';
 
 class App extends Component {
   state = {
@@ -18,6 +19,11 @@ class App extends Component {
         </header>
         {this.state.countries.map(country =>
           <Country 
+            key={ country.id } 
+            country={ country } />
+        )}
+        {this.state.countries.map(country =>
+          <CountryNoMui 
             key={ country.id } 
             country={ country } />
         )}
